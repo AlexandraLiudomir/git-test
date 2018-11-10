@@ -1,3 +1,3 @@
-print('hello,world')
-print('no, fuck off, i changed my mind')
-print('are you still here?')
+print('hello,world!')
+print('no, fuck off, i changed my mind!')
+print('are you still here?!')
