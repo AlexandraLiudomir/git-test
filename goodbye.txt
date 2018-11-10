@@ -1,1 +1,2 @@
 print('goodbye my love')
+print('and all of you other idiots,LEAVE NOW!')
